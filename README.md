@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/uC-Display-orange)](https://youtu.be/C2yjVLjOY4c)
 [![](https://img.shields.io/badge/uC-Arduino_BootLoader-orange)](https://youtu.be/zN1l83ps8rc)
 [![](https://img.shields.io/badge/uC-7Segments-orange)](https://youtu.be/ZmDLpSMhs-I)
+[![](https://img.shields.io/badge/uC-Alphanumeric_LCD-orange)](https://youtu.be/wq8CSptCZ9o)
 
 Contact Us
 -------------
