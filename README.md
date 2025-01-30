@@ -20,6 +20,7 @@
 [![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_B-orange)](https://youtu.be/F_oOUHInUFk)
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
+[![](https://img.shields.io/badge/uC-Stepper_Motor-orange)](https://youtu.be/ws5ms61Bx-o)
 
 Contact Us
 -------------
