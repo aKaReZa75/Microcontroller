@@ -1,5 +1,5 @@
 # Microcontroller
-  This document covers foundational topics shared by all microcontrollers, regardless of architecture.   
+  This repository covers foundational topics shared by all microcontrollers, regardless of architecture.   
   It explains general principles—such as how USART works—without device-specific implementation details, which are covered in individual videos.    
   This central resource prevents redundancy and gives you a solid theoretical base before moving to practical setups.
 
