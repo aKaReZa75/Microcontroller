@@ -1,6 +1,9 @@
 # Servo Motor  
    In this document, learn what a servo motor is and how to control it.  
    Explore the fundamentals of control signals for both 180° and 360° servo motors, with an in-depth discussion on the MG995 model.
+
+> [!CAUTION]
+> This document is currently being written and has not been completed yet.
    
 # 🌟 Support Me
 If you found this repository useful:
