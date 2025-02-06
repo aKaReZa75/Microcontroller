@@ -1,15 +1,11 @@
 # Microcontroller
-<<<<<<< HEAD
   This document covers foundational topics shared by all microcontrollers, regardless of architecture.   
   It explains general principles—such as how USART works—without device-specific implementation details, which are covered in individual videos.    
   This central resource prevents redundancy and gives you a solid theoretical base before moving to practical setups.
-=======
->>>>>>> 8d67d496932310bb0b907ef2130c8ccb935737ae
 
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
-<<<<<<< HEAD
 # 🔗 Resources
   Here you'll find a collection of useful links and documents related to the microcontrollers and its applications.   
   These resources include datasheets, tutorials, and essential tools to get you started and guide you through.
@@ -33,9 +29,6 @@
   ---  
     Dive into the world of ESP8266! This repo has projects and code to explore, including hardware info and pin descriptions.
 
-  
-# 💻 How to Use Git and GitHub
-=======
 ## 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
@@ -47,7 +40,6 @@ To access the repository files and save them on your computer, there are two met
    - Note that with this method, you will not automatically receive updates for the repository and will need to manually download any new updates.
 
 ## Clone using the URL.
->>>>>>> 8d67d496932310bb0b907ef2130c8ccb935737ae
 First, open **Git Bash** :
 -  Open the folder in **File Explorer** where you want the library to be stored.
 -  **Right-click** inside the folder and select the option **"Open Git Bash here"** to open **Git Bash** in that directory.
