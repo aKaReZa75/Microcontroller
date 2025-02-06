@@ -5,6 +5,9 @@ This document contains general educational materials that cover the fundamental 
    
    This document also includes summaries of educational videos, highlighting key points and essential keywords from the tutorials. It can even serve as a concise handout for quickly grasping the main concepts discussed.  
 
+> [!CAUTION]
+> This document is currently being written and has not been completed yet.
+
 - [Servo Motor](./Edu_ServoMotor.md)  
   ---  
    In this document, learn what a servo motor is and how to control it.  
