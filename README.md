@@ -1,26 +1,7 @@
 # Microcontroller
-[![](https://img.shields.io/badge/uC-Introduction-orange)](https://youtu.be/Clsv0KyD4RM)
-[![](https://img.shields.io/badge/uC-Architecture-orange)](https://youtu.be/vrKq5oZxuT0)
-[![](https://img.shields.io/badge/uC-Requirement-orange)](https://youtu.be/GfvmpeDFT_o)
-[![](https://img.shields.io/badge/uC-Basics-orange)](https://youtu.be/XhBq_QvCxYE)
-[![](https://img.shields.io/badge/uC-Oscillators-orange)](https://youtu.be/WPOZ_3E0mC8)
-[![](https://img.shields.io/badge/uC-GPIO_Part_A-orange)](https://youtu.be/_i_MXrbRf7o)
-[![](https://img.shields.io/badge/uC-GPIO_Part_B-orange)](https://youtu.be/QGhRRsIICUU)
-[![](https://img.shields.io/badge/uC-Assigning_value_to_a_register-orange)](https://youtu.be/kBbZi6WWGiM)
-[![](https://img.shields.io/badge/uC-Practical-orange)](https://youtu.be/5B_eDfAgxZU)
-[![](https://img.shields.io/badge/uC-Display-orange)](https://youtu.be/C2yjVLjOY4c)
-[![](https://img.shields.io/badge/uC-Arduino_BootLoader-orange)](https://youtu.be/zN1l83ps8rc)
-[![](https://img.shields.io/badge/uC-7Segments-orange)](https://youtu.be/ZmDLpSMhs-I)
-[![](https://img.shields.io/badge/uC-Alphanumeric_LCD-orange)](https://youtu.be/wq8CSptCZ9o)
-[![](https://img.shields.io/badge/uC-Interrupt-orange)](https://youtu.be/Zr2dET7aFKM)
-[![](https://img.shields.io/badge/uC-Timer_Counter-orange)](https://youtu.be/R8XcFXiZaRU)
-[![](https://img.shields.io/badge/uC-Communication_PART_A-orange)](https://youtu.be/CzTxCzfNQtw)
-[![](https://img.shields.io/badge/uC-Communication_PART_B-orange)](https://youtu.be/jNMS3Ukl_1E)
-[![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_A-orange)](https://youtu.be/PrTcroT5kgM)
-[![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_B-orange)](https://youtu.be/F_oOUHInUFk)
-[![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
-[![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
-[![](https://img.shields.io/badge/uC-Stepper_Motor-orange)](https://youtu.be/ws5ms61Bx-o)
+
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 ## 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
