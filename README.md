@@ -17,10 +17,6 @@
   ---  
   All educational videos related to this topic are available at this link.  
 
-- [Educational Resources](./Educational.md)
-  ---  
-    This document provides a concise overview of fundamental microcontroller topics with basic tutorials to build a solid foundation. It also includes video summaries highlighting key points and essential keywords, serving as a quick reference for core concepts.
-
 - [AVR Microntroller](https://github.com/aKaReZa75/AVR)
   ---  
     This repository contains comprehensive resources for AVR microcontrollers, including hardware schematics, software libraries, and educational projects.
