@@ -38,6 +38,7 @@ The purpose of these short descriptions is to give a clear and concise understan
 |
 ├── Display Interfaces
 │   ├── [aKaReZa 28 - Microcontroller, Display]
+│   ├── [aKaReZa 35 - Microcontroller, 7Segments]
 │   └── [aKaReZa 41 - Microcontroller, Alphanumeric LCD]
 |
 ├── Timers and Counters
