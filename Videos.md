@@ -20,7 +20,6 @@ The purpose of these short descriptions is to give a clear and concise understan
 📁 Microcontrollers
 │
 ├── Fundamental
-├── Fundamental
 │   ├── [aKaReZa 1 - Microcontroller, Introduction]
 │   │   ├─ Microcontrollers vs Others — Concepts and comparisons.
 │   │   ├─ History — ICs and embedded systems.
