@@ -21,150 +21,158 @@ The purpose of these short descriptions is to give a clear and concise understan
 │
 ├── Fundamental
 │   ├── [aKaReZa 1 - Microcontroller, Introduction]
-│   │   ├─ Microcontrollers vs Others — Concepts and comparisons.
-│   │   ├─ History — ICs and embedded systems.
-│   │   └─ Selection — Choosing microcontrollers for projects.
+│   │     ├─ Microcontrollers vs Others — Concepts and comparisons.
+│   │     ├─ History — ICs and embedded systems.
+│   │     └─ Selection — Choosing microcontrollers for projects.
 │   │
 │   ├── [aKaReZa 3 - Microcontroller, Architecture]
-│   │   ├─ Digital vs Analog — Signal systems.
-│   │   ├─ Processor Designs — 8086 and AVR architecture.
-│   │   ├─ Code Flow — Programming and instruction execution.
-│   │   └─ Memory — ROM, RAM, PROM types.
+│   │     ├─ Digital vs Analog — Signal systems.
+│   │     ├─ Processor Designs — 8086 and AVR architecture.
+│   │     ├─ Code Flow — Programming and instruction execution.
+│   │     └─ Memory — ROM, RAM, PROM types.
 │   │
 │   ├── [aKaReZa 5 - Microcontroller, Requirement]
-│   │   ├─ Dev Tools — Editor, compiler, assembler, debugger, programmer.
-│   │   ├─ IDEs — CodeVision AVR, MicroChip Studio, VSCode, STM32 CubeIDE.
-│   │   └─ Programming Methods — Types and usage.
+│   │     ├─ Dev Tools — Editor, compiler, assembler, debugger, programmer.
+│   │     ├─ IDEs — CodeVision AVR, MicroChip Studio, VSCode, STM32 CubeIDE.
+│   │     └─ Programming Methods — Types and usage.
 │   │
 │   ├── [aKaReZa 7 - Microcontroller, Basics]
-│   │   ├─ Bootloader — Simulators vs emulators.
-│   │   ├─ Architectures — RISC, CISC, SoC overview.
-│   │   ├─ Boards & Docs — Development boards, datasheets, manuals.
-│   │   └─ Registers — Fuse bits and register basics.
+│   │     ├─ Bootloader — Simulators vs emulators.
+│   │     ├─ Architectures — RISC, CISC, SoC overview.
+│   │     ├─ Boards & Docs — Development boards, datasheets, manuals.
+│   │     └─ Registers — Fuse bits and register basics.
 │   │
 │   ├── [aKaReZa 9 - Microcontroller, Oscillators]
-│   │   ├─ Clock Sources — Internal vs external.
-│   │   ├─ Frequency Concepts — Natural/resonance + oscillator circuit.
-│   │   ├─ Accuracy — PPM, PPB, error calculation.
-│   │   └─ Temperature Effects — Impact and optimization.
+│   │     ├─ Clock Sources — Internal vs external.
+│   │     ├─ Frequency Concepts — Natural/resonance + oscillator circuit.
+│   │     ├─ Accuracy — PPM, PPB, error calculation.
+│   │     └─ Temperature Effects — Impact and optimization.
 │   │
 │   ├── [aKaReZa 18 - Microcontroller, Assigning value to a register]
-│   │   ├─ Register Formats — Binary, hex, decimal.
-│   │   ├─ Bit Operations — Shift, set, clear, toggle, change, check.
-│   │   └─ Tools — Calculator for conversions.
+│   │     ├─ Register Formats — Binary, hex, decimal.
+│   │     ├─ Bit Operations — Shift, set, clear, toggle, change, check.
+│   │     └─ Tools — Calculator for conversions.
 │   │
 │   ├── [aKaReZa 25 - Microcontroller, Practical]
-│   │   ├─ Implementation — Testing method with examples.
-│   │   └─ Methodology — Old vs new tutorial format.
+│   │     ├─ Implementation — Testing method with examples.
+│   │     └─ Methodology — Old vs new tutorial format.
 │   │
 │   └── [aKaReZa 30 - Microcontroller, Arduino BootLoader]
-│       ├─ Programming — ATMEGA328 and ATMEGA16U2 with Arduino IDE.
-│       ├─ Bootloader — Usage and setup.
-│       ├─ Tools — Arduino IDE, PlatformIO.
-│       └─ Auto Reset — Code upload without a programmer.
+│         ├─ Programming — ATMEGA328 and ATMEGA16U2 with Arduino IDE.
+│         ├─ Bootloader — Usage and setup.
+│         ├─ Tools — Arduino IDE, PlatformIO.
+│         └─ Auto Reset — Code upload without a programmer.
 │
 ├── GPIO (General Purpose Input Output)
 │   ├── [aKaReZa 11 - Microcontroller, GPIO - Part A]
-│   │   ├─ GPIO Overview — Usage, inputs/outputs, LED control.
-│   │   └─ Output Config — Pin settings and configuration.
+│   │     ├─ GPIO Overview — Usage, inputs/outputs, LED control.
+│   │     └─ Output Config — Pin settings and configuration.
 │   │
 │   └── [aKaReZa 16 - Microcontroller, GPIO - Part B]
-│       ├─ Input Types — Mechanical switches and push buttons.
-│       ├─ NO vs NC — Switch behavior comparison.
-│       ├─ Pull-up/Down — Resistor roles and Active High/Low logic.
-│       └─ Bounce — De-bouncing techniques for clean input.
+│         ├─ Input Types — Mechanical switches and push buttons.
+│         ├─ NO vs NC — Switch behavior comparison.
+│         ├─ Pull-up/Down — Resistor roles and Active High/Low logic.
+│         └─ Bounce — De-bouncing techniques for clean input.
 │
 ├── Interrupts
 │   └── [aKaReZa 45 - Microcontroller, Interrupts]
-│       ├─ Polling vs Interrupts — Concepts and comparisons.
-│       ├─ ISR — Writing and handling Interrupt Service Routines.
-│       ├─ Vector Table — Lookup and usage.
-│       ├─ Heap & Stack — Memory structure basics.
-│       ├─ FIFO & LIFO — Data handling methods.
-│       ├─ Priority — Managing interrupt levels and nesting.
-│       └─ External — Triggering interrupts via hardware.
+│         ├─ Polling vs Interrupts — Concepts and comparisons.
+│         ├─ ISR — Writing and handling Interrupt Service Routines.
+│         ├─ Vector Table — Lookup and usage.
+│         ├─ Heap & Stack — Memory structure basics.
+│         ├─ FIFO & LIFO — Data handling methods.
+│         ├─ Priority — Managing interrupt levels and nesting.
+│         └─ External — Triggering interrupts via hardware.
 |
 ├── Display Interfaces
 │   ├── [aKaReZa 28 - Microcontroller, Display]
-│   │   └── Visual Outputs — Overview: LED, 7/14 Segment, Dot Matrix, LCD, OLED.
+│   │     └── Visual Outputs — Overview: LED, 7/14 Segment, Dot Matrix, LCD, OLED.
 │   │
 │   ├── [aKaReZa 35 - Microcontroller, 7Segments]
-│   │   ├─ 7-Segment — Common cathode/anode, digit patterns, lookup tables.
-│   │   └── Multiplexing — Reduce pin usage, refresh technique.
+│   │     ├─ 7-Segment — Common cathode/anode, digit patterns, lookup tables.
+│   │     └── Multiplexing — Reduce pin usage, refresh technique.
 │   │
 │   └── [aKaReZa 41 - Microcontroller, Alphanumeric LCD]
-│       ├─ 16x2 LCD — Wiring, contrast, HD44780 basics.
-│       ├─ Memory — DDRAM, CGRAM usage.
-│       └─ Interface Modes — 8-bit, 4-bit, and LCD library.
+│         ├─ 16x2 LCD — Wiring, contrast, HD44780 basics.
+│         ├─ Memory — DDRAM, CGRAM usage.
+│         └─ Interface Modes — 8-bit, 4-bit, and LCD library.
 |
 ├── Timers and Counters
 │   └── [aKaReZa 54 - Microcontroller, Timer]
-│       ├─ Mode 1: Accurate Time — For precise timing like display refreshing.
-│       ├─ Mode 2: PWM — Motor and servo speed control.
-│       ├─ Mode 3: Counter — Frequency counting and tachometer use.
-│       ├─ Mode 4: Capture — Pulse capture for duty cycle and frequency analysis.
-│       ├─ Mode 5: RTC — Real-Time Clock functionality.
-│       ├─ Mode 6: WDT — System protection via watchdog.
-│       └─ Mode 7: Millis — Millisecond-level timing.
+│         ├─ Mode 1: Accurate Time — For precise timing like display refreshing.
+│         ├─ Mode 2: PWM — Motor and servo speed control.
+│         ├─ Mode 3: Counter — Frequency counting and tachometer use.
+│         ├─ Mode 4: Capture — Pulse capture for duty cycle and frequency analysis.
+│         ├─ Mode 5: RTC — Real-Time Clock functionality.
+│         ├─ Mode 6: WDT — System protection via watchdog.
+│         └─ Mode 7: Millis — Millisecond-level timing.
 │
 ├── Analog Peripherals
 │   ├── [aKaReZa 68 - Microcontroller, Analog Peripherals - Part A]
-│   │   ├─ Analog Signals — Basics and sensor outputs.
-│   │   └─ ADC — Conversion process and sampling frequency.
+│   │     ├─ Analog Signals — Basics and sensor outputs.
+│   │     └─ ADC — Conversion process and sampling frequency.
 │   │
 │   └── [aKaReZa 69 - Microcontroller, Analog Peripherals - Part B]
-│       ├─ ADC Types — SAR, Delta-Sigma, Flash comparison.
-│       ├─ ADC Techniques — Single Ended vs Differential.
-│       ├─ External ADC — Working with ADS1115.
-│       ├─ DAC — Concepts and external DACs: DAC0808, MCP4725.
-│       └─ PWM & Comparator — PWM as DAC and analog comparator usage.
+│         ├─ ADC Types — SAR, Delta-Sigma, Flash comparison.
+│         ├─ ADC Techniques — Single Ended vs Differential.
+│         ├─ External ADC — Working with ADS1115.
+│         ├─ DAC — Concepts and external DACs: DAC0808, MCP4725.
+│         └─ PWM & Comparator — PWM as DAC and analog comparator usage.
 │
 ├── Communication Protocols
 │   ├── [aKaReZa 63 - Microcontroller, Communication Protocols - Part A]
-│   │   ├─ Parallel vs Serial — Data transmission comparison and pros/cons.
-│   │   ├─ USART & UART — Protocol formats and serial communication basics.
-│   │   ├─ Baud Rate vs Bit Rate — Error calculation and correction methods.
-│   │   └─ Practical usage — Applying protocols in real-world projects.
+│   │     ├─ Parallel vs Serial — Data transmission comparison and pros/cons.
+│   │     ├─ USART & UART — Protocol formats and serial communication basics.
+│   │     ├─ Baud Rate vs Bit Rate — Error calculation and correction methods.
+│   │     └─ Practical usage — Applying protocols in real-world projects.
 │   │
 │   └── [aKaReZa 64 - Microcontroller, Communication Protocols - Part B]
-│       ├─ SPI — High-speed device communication.
-│       ├─ I2C — Two-wire multi-device communication.
-│       ├─ 1-Wire — Single-wire protocol for device interfacing.
-│       └─ Other Protocols — Overview of additional communication methods.
+│         ├─ SPI — High-speed device communication.
+│         ├─ I2C — Two-wire multi-device communication.
+│         ├─ 1-Wire — Single-wire protocol for device interfacing.
+│         └─ Other Protocols — Overview of additional communication methods.
 |
-└── Motors
-    ├── [aKaReZa 89 - Microcontroller, PMDC Motor - PART A]
-    │   ├─ PMDC Basics — Types, structure, and speed/direction control.
-    │   ├─ H-Bridge — Motor control circuitry.
-    │   ├─ Braking — Techniques for rapid stopping.
-    │   ├─ Dead Band — Concept and usage in control.
-    │   ├─ Encoders — Types and selection tips.
-    │   └─ Driver ICs — Overview and applications.
-    │
-    ├── [aKaReZa 90 - Microcontroller, PMDC Motor - PART B]
-    │   ├─ Dead Band — Impact on motor control.
-    │   ├─ Control Methods — Speed, direction, braking.
-    │   ├─ Encoders — Speed and direction detection.
-    │   ├─ Tachometer — Speed measurement tool.
-    │   └─ PWM Frequency — Performance effects and selection.
-    │
-    ├── [aKaReZa 91 - Microcontroller, Stepper Motor]
-    │   ├─ Stepper Types — PM, VR, and Hybrid motors.
-    │   ├─ Wiring — 4, 5, 6, and 8-wire configurations.
-    │   ├─ Drive Modes — UniPolar vs BiPolar.
-    │   ├─ Stepping — Micro, Half, and Full Step.
-    │   ├─ Drivers — Usage and setup.
-    │   ├─ Homing — Positioning technique.
-    │   └─ Braking & Speed — Methods and limits.
-    │
-    └── [aKaReZa 92 - Microcontroller, Servo Motor]
-        ├─ Servo Intro — Structure and comparison.
-        ├─ Control Signals — Positioning commands.
-        ├─ Positional & Continuous — Applications and usage.
-        ├─ Drivers — Operation and wiring.
-        ├─ Variants — 4-wire, Dyanmixel, AC, MG995.
-        └─ Testing — Practical experiments.
-
+├── Motors
+│   ├── [aKaReZa 89 - PMDC Motor - PART A]
+│   │     ├─ PMDC Basics — Types, structure, speed/direction control.
+│   │     ├─ H-Bridge — Motor driving circuit logic.
+│   │     ├─ Braking — Fast stop mechanisms.
+│   │     ├─ Dead Band — Neutral zone control concepts.
+│   │     ├─ Encoders — Detection methods and selection.
+│   │     └─ Driver ICs — Component overview.
+│   │
+│   ├── [aKaReZa 90 - PMDC Motor - PART B]
+│   │     ├─ Dead Band — Influence on control behavior.
+│   │     ├─ Motor Control — Speed, direction, braking logic.
+│   │     ├─ Encoders — Output signal use for direction/speed.
+│   │     ├─ Tachometer — Practical speed measurement setup.
+│   │     └─ PWM Frequency — Efficiency tuning.
+│   │
+│   ├── [aKaReZa 91 - Stepper Motor]
+│   │     ├─ Motor Types — PM, VR, Hybrid intro.
+│   │     ├─ Wiring — 4/5/6/8-wire configurations.
+│   │     ├─ Modes — UniPolar vs BiPolar.
+│   │     ├─ Stepping — Micro/Half/Full stepping.
+│   │     ├─ Drivers — Interface and setup.
+│   │     ├─ Homing — Positioning technique.
+│   │     └─ Braking & Speed — Methods and limits.
+│   │
+│   └──  [aKaReZa 92 - Servo Motor]
+│          ├─ Overview — Structure and types.
+│          ├─ Control — Signals and positioning commands.
+│          ├─ Variants — Positional vs Continuous.
+│          ├─ Wiring — Driver interface and connections.
+│          ├─ Models — Dyanmixel, MG995, AC type.
+│          └─ Experiments — Practical signal testing.
+│     
+└── RF Modules
+    └── [aKaReZa 110 - GSM Modems]
+          ├─ Intro — Mobile networks (2G–4G) and module overview.
+          ├─ Modules — Quectel M66, SIMCom features.
+          ├─ AT Commands — Setup, communication, signal check.
+          ├─ SMS — Sending, receiving, error reporting via AT+CMEE.
+          ├─ Voice — Call functionality through AT command set.
+          └─ Syntax — `CR`, `NL` role and command sequencing tips.
 ```
 
 <table style="border-collapse: collapse;">
@@ -578,6 +586,24 @@ The purpose of these short descriptions is to give a clear and concise understan
         <img src="https://img.youtube.com/vi/7y1G4hoaXaM/maxresdefault.jpg"
              width="360"
              alt="aKaReZa 92 – Microcontroller, Servo Motor Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/w70hpMyDvRU">aKaReZa 110 – Microcontroller, GSM Modems</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Discover how to work with GSM modules and microcontrollers to send SMS, make calls, and connect to mobile networks. This video covers Quectel and SIMCom modules, AT command sequences, SIM status checks, signal strength readings, and voice call setup—ideal for mastering GSM communication in embedded systems.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/w70hpMyDvRU">
+        <img src="https://img.youtube.com/vi/w70hpMyDvRU/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 110 – Microcontroller, GSM Modems Thumbnail"/>
       </a>
     </td>
   </tr>
