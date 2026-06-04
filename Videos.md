@@ -166,13 +166,22 @@ The purpose of these short descriptions is to give a clear and concise understan
 │          └─ Experiments — Practical signal testing.
 │     
 └── RF Modules
-    └── [aKaReZa 110 - GSM Modems]
-          ├─ Intro — Mobile networks (2G–4G) and module overview.
-          ├─ Modules — Quectel M66, SIMCom features.
-          ├─ AT Commands — Setup, communication, signal check.
-          ├─ SMS — Sending, receiving, error reporting via AT+CMEE.
-          ├─ Voice — Call functionality through AT command set.
-          └─ Syntax — `CR`, `NL` role and command sequencing tips.
+    ├── [aKaReZa 110 - GSM Modems]
+    │   ├─ Intro — Mobile networks (2G–4G) and module overview.
+    │   ├─ Modules — Quectel M66, SIMCom features.
+    │   ├─ AT Commands — Setup, communication, signal check.
+    │   ├─ SMS — Sending, receiving, error reporting via AT+CMEE.
+    │   ├─ Voice — Call functionality through AT command set.
+    │   └─ Syntax — `CR`, `NL` role and command sequencing tips.
+    │
+    └── [aKaReZa 139 - Microcontroller, Remotes - PART A]
+        ├─ Wired vs Wireless — Communication comparison.
+        ├─ Modulation — AM, FM, ASK concepts and pros/cons.
+        ├─ AM — Advantages and limitations.
+        ├─ FM — Advantages and limitations.
+        ├─ ASK — Advantages and limitations.
+        ├─ Bands — Classification of communication frequency bands.
+        └─ ISM Band — Legal uses and common applications.
 ```
 
 <table style="border-collapse: collapse;">
@@ -604,6 +613,24 @@ The purpose of these short descriptions is to give a clear and concise understan
         <img src="https://img.youtube.com/vi/w70hpMyDvRU/maxresdefault.jpg"
              width="360"
              alt="aKaReZa 110 – Microcontroller, GSM Modems Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/asiuJksMo-Q">aKaReZa 139 – Microcontroller, Remotes – PART A</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        An introduction to <strong>remote‑control systems</strong>, covering both wired and wireless communication. This episode explains <strong>AM, FM, and ASK modulation</strong>, compares their advantages and limitations, and reviews communication frequency bands with a clear focus on the <strong>ISM Band</strong> and its legal applications.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/asiuJksMo-Q">
+        <img src="https://img.youtube.com/vi/asiuJksMo-Q/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 139 – Microcontroller, Remotes – PART A Thumbnail"/>
       </a>
     </td>
   </tr>
