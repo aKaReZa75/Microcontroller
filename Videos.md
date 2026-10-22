@@ -119,6 +119,7 @@ The purpose of these short descriptions is to give a clear and concise understan
 │         ├─ DAC — Concepts and external DACs: DAC0808, MCP4725.
 │         └─ PWM & Comparator — PWM as DAC and analog comparator usage.
 │
+│
 ├── Communication Protocols
 │   ├── [aKaReZa 63 - Microcontroller, Communication Protocols - Part A]
 │   │     ├─ Parallel vs Serial — Data transmission comparison and pros/cons.
@@ -126,11 +127,21 @@ The purpose of these short descriptions is to give a clear and concise understan
 │   │     ├─ Baud Rate vs Bit Rate — Error calculation and correction methods.
 │   │     └─ Practical usage — Applying protocols in real-world projects.
 │   │
-│   └── [aKaReZa 64 - Microcontroller, Communication Protocols - Part B]
-│         ├─ SPI — High-speed device communication.
-│         ├─ I2C — Two-wire multi-device communication.
-│         ├─ 1-Wire — Single-wire protocol for device interfacing.
-│         └─ Other Protocols — Overview of additional communication methods.
+│   ├── [aKaReZa 64 - Microcontroller, Communication Protocols - Part B]
+│   │     ├─ SPI — High-speed device communication.
+│   │     ├─ I2C — Two-wire multi-device communication.
+│   │     ├─ 1-Wire — Single-wire protocol for device interfacing.
+│   │     └─ Other Protocols — Overview of additional communication methods.
+│   │
+│   └── [aKaReZa 146 - Microcontroller, Error Detection - PART A]
+│         ├─ Data Corruption — Causes of data errors during transmission and storage.
+│         ├─ Importance of Error Detection — Why data integrity matters in embedded systems and microcontrollers.
+│         ├─ Parity Bit — Basic error-detection technique and its usage.
+│         ├─ Checksum — Method for data verification and its applications.
+│         ├─ Checksum vs Parity Bit — Comparing effectiveness of the two techniques.
+│         ├─ CRC (Cyclic Redundancy Check) — Introduction to CRC for robust error detection.
+│         ├─ Technique Comparison — Advantages, limitations, and use cases of each method.
+│         └─ Reliability Improvement — Methods to enhance reliability in data transmission and processing.
 |
 ├── Motors
 │   ├── [aKaReZa 89 - PMDC Motor - PART A]
@@ -634,7 +645,25 @@ The purpose of these short descriptions is to give a clear and concise understan
       </a>
     </td>
   </tr>
-  
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/3Tpzt6JwtZw">aKaReZa 146 - Microcontroller, Error Detection - PART A</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Learn the fundamentals of <strong>Error Detection</strong> in digital systems and embedded applications. This episode explains how data corruption occurs and explores common error-detection techniques including <strong>Parity Bit</strong>, <strong>Checksum</strong>, and <strong>CRC (Cyclic Redundancy Check)</strong>. You'll compare their strengths, limitations, and real-world use cases, making this an essential introduction to improving data reliability in communication and storage systems.
+      </p>
+    </td>
+    <td width="360" valign="center" style="padding: 0;">
+      <a href="https://youtu.be/3Tpzt6JwtZw">
+        <img src="https://img.youtube.com/vi/3Tpzt6JwtZw/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 146 - Microcontroller, Error Detection - PART A Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 
