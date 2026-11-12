@@ -176,23 +176,36 @@ The purpose of these short descriptions is to give a clear and concise understan
 │          ├─ Models — Dyanmixel, MG995, AC type.
 │          └─ Experiments — Practical signal testing.
 │     
-└── RF Modules
-    ├── [aKaReZa 110 - GSM Modems]
-    │   ├─ Intro — Mobile networks (2G–4G) and module overview.
-    │   ├─ Modules — Quectel M66, SIMCom features.
-    │   ├─ AT Commands — Setup, communication, signal check.
-    │   ├─ SMS — Sending, receiving, error reporting via AT+CMEE.
-    │   ├─ Voice — Call functionality through AT command set.
-    │   └─ Syntax — `CR`, `NL` role and command sequencing tips.
-    │
-    └── [aKaReZa 139 - Microcontroller, Remotes - PART A]
-        ├─ Wired vs Wireless — Communication comparison.
-        ├─ Modulation — AM, FM, ASK concepts and pros/cons.
-        ├─ AM — Advantages and limitations.
-        ├─ FM — Advantages and limitations.
-        ├─ ASK — Advantages and limitations.
-        ├─ Bands — Classification of communication frequency bands.
-        └─ ISM Band — Legal uses and common applications.
+├── RF Modules
+│   ├── [aKaReZa 110 - GSM Modems]
+│   │   ├── Intro — Mobile networks (2G–4G) and module overview.
+│   │   ├── Modules — Quectel M66, SIMCom features.
+│   │   ├── AT Commands — Setup, communication, signal check.
+│   │   ├── SMS — Sending, receiving, error reporting via AT+CMEE.
+│   │   ├── Voice — Call functionality through AT command set.
+│   │   └── Syntax — `CR`, `NL` role and command sequencing tips.
+│   │
+│   └── [aKaReZa 139 - Microcontroller, Remotes - PART A]
+│       ├── Wired vs Wireless — Communication comparison.
+│       ├── Modulation — AM, FM, ASK concepts and pros/cons.
+│       ├── AM — Advantages and limitations.
+│       ├── FM — Advantages and limitations.
+│       ├── ASK — Advantages and limitations.
+│       ├── Bands — Classification of communication frequency bands.
+│       └── ISM Band — Legal uses and common applications.
+│
+└── Controller
+    └── PID
+        └── aKaReZa 149 - Microcontroller, PID - PART A
+            ├── PID Controllers — Fundamental concepts and implementation in microcontroller-based systems.
+            ├── Controller Requirements — Key requirements and design considerations.
+            ├── System Response — Characteristics of system response.
+            ├── Sampling Time — Concept and importance in digital control systems.
+            ├── Setpoint Signal — Definition and modification.
+            ├── Programming Challenges — Implementing controllers on microcontrollers.
+            ├── Proportional Term (P) — Operating principle, Proportional Gain effects, and implementation.
+            ├── Reverse Direction Mode — Controller operation in reverse direction.
+            └── Integral Term (I) — Role of the integrator and implementation.
 ```
 
 <table style="border-collapse: collapse;">
@@ -660,6 +673,24 @@ The purpose of these short descriptions is to give a clear and concise understan
         <img src="https://img.youtube.com/vi/3Tpzt6JwtZw/maxresdefault.jpg"
              width="360"
              alt="aKaReZa 146 - Microcontroller, Error Detection - PART A Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/5GSpWSIgtlc">aKaReZa 149 – Microcontroller, PID - PART A</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we begin exploring PID controllers, covering the fundamental concepts behind their operation and their implementation in microcontroller-based systems. We examine controller requirements and system response characteristics, introduce Sampling Time and Setpoint Signal, and implement the controller using its Proportional (P) and Integral (I) terms, analyzing each component's operating principle, the impact of controller gains on system behavior, and the system response to setpoint changes.
+      </p>
+    </td>
+    <td width="360" valign="center" style="padding: 0;">
+      <a href="https://youtu.be/5GSpWSIgtlc">
+        <img src="https://img.youtube.com/vi/5GSpWSIgtlc/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 149 – Microcontroller, PID - PART A Thumbnail"/>
       </a>
     </td>
   </tr>
